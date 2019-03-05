@@ -3,6 +3,7 @@
 * Efficient and peaceful crowd management in dense gatherings.
 * Prediction and avoidance of turbulent points amidst the crowd.
 * Avoidance of stampede, thus avoiding hazard to life and property.
+* Intelligent portal faciliating remote analysis and control.
 
  ## Possible extensions 
  
